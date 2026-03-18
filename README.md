@@ -12,4 +12,7 @@ The final task will be done in a group with a prize to be won...
 
 Hope you enjoy!
 
+Link to python cheatsheet that you may find useful : https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20CheatSheet/beginners_python_cheat_sheet_pcc_if_while.pdf
+
+
 -> Sara Alaloul <3
